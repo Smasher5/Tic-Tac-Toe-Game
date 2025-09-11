@@ -10,7 +10,7 @@ Classic games like Tic Tac Toe are simple but powerful for learning **front-end 
 ---
 
 ## 📊 Current Progress Status  
-- ✅ Basic 3x3 Tic Tac Toe board implemented  
+- ✅ Basic 3x3 Tic Tac Toe board implemented 
 - ✅ Player turns (O & X) handled with toggle logic  
 - ✅ Winner detection using winning patterns  
 - ✅ "Congratulations" winner message with replay option  
