@@ -49,7 +49,7 @@ This project:
 
 1. 📥 **Clone the repository**  
    ```bash
-   git clone https://github.com/divij2005/tic-tac-toe.git
+   git clone https://github.com/Smasher5/tic-tac-toe.git
    cd tic-tac-toe
 
 
