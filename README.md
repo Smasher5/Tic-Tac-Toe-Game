@@ -1,0 +1,2 @@
+# Tic-Toe-Toe-
+This project is a simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. Everything runs entirely on the client side—no frameworks, build tools, or back‑end services—so you can clone the repo and start playing instantly in any modern web browser. It serves as a great beginner-friendly project to understand the fundamentals of DOM manipulation, styling, and event handling in web development.
